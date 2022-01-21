@@ -1,0 +1,22 @@
+{
+    "ModTitle": "UsableDrugs",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.13.4",
+    "ModDescription": "Adds Various Drugs To Daggerfall, Which Can Be Used For Various Effects",
+    "GUID": "d45fffd8-29d2-4578-ba76-9b2e8c8beda9",
+    "Files": [],
+    "Dependencies": [
+        {
+            "Name": "roleplayrealism",
+            "IsOptional": true,
+            "IsPeer": false
+        },
+        {
+            "Name": "unleveled training",
+            "IsOptional": true,
+            "IsPeer": false
+        }
+    ]
+}
